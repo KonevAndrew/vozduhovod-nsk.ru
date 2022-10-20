@@ -1,0 +1,157 @@
+User-agent: Yandex
+
+Disallow: /user/
+Disallow: /bitrix/
+Disallow: /upload/
+Disallow: /search/
+Disallow: /registration/
+Allow: /search/map.php
+Disallow: /auth/
+Disallow: /auth.php
+Disallow: /profile/
+Disallow: /subscribe/
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /*auth=
+Disallow: /personal/
+Disallow: /*/search/
+Disallow: /*PAGE_NAME=search
+Disallow: /*PAGE_NAME=user_post
+Disallow: /*PAGE_NAME=detail_slide_show
+Disallow: /*PAGEN_1=*
+Disallow: /*/slide_show/
+Disallow: /*/gallery/*order=*
+Disallow: /*?print=
+Disallow: /*&print=
+Disallow: /*register=*
+Disallow: /*forgot_password=*
+Disallow: /*change_password=*
+Disallow: /*login=*
+Disallow: /*logout=*
+Disallow: /*auth=*
+Disallow: /*action=ADD_TO_COMPARE_LIST
+Disallow: /*action=DELETE_FROM_COMPARE_LIST
+Disallow: /*action=ADD2BASKET
+Disallow: /*action=BUY
+Disallow: /*print_course=Y
+Disallow: /*bitrix_*=
+Disallow: /*backurl=*
+Disallow: /*BACKURL=*
+Disallow: /*back_url=*
+Disallow: /*BACK_URL=*
+Disallow: /*back_url_admin=*
+Disallow: /*index.php$
+Disallow: /*SHOWALL
+Disallow: /*show_all=
+Disallow: /cron/
+Disallow: /communication/forum/user/
+Disallow: /e-store/paid/detail.php
+Disallow: /e-store/affiliates/
+Disallow: /club/gallery/tags/
+Disallow: /examples/my-components/
+Disallow: /examples/download/download_private/
+Disallow: /club/$
+Disallow: /club/messages/
+Disallow: /club/log/
+Disallow: /content/board/my/
+Disallow: /content/links/my/
+
+
+#E-SHOP
+Disallow: /cart/*
+Disallow: /*?ELEMENT_ID=*
+Disallow: /*&section=*
+Disallow: /?setFilter=*
+
+#UTM-markers
+Disallow: /*?utm*
+Disallow: /*?openstat*
+Disallow: /*?gclid*
+Disallow: /*?from*
+Disallow: /*?PHPSESSID*
+Disallow: /*?ref*
+
+Clean-param: print&utm_source&utm_medium&utm_term&utm_content&utm_campaign&gclid&_openstat
+#UTM-markers
+
+#For Yandex
+
+Host: vozduhovod-nsk.ru
+Sitemap: http://vozduhovod-nsk.ru/sitemap.xml
+
+
+User-agent: *
+
+Disallow: /user/
+Disallow: /bitrix/
+Disallow: /upload/
+Disallow: /search/
+Disallow: /registration/
+Allow: /search/map.php
+Disallow: /auth/
+Disallow: /auth.php
+Disallow: /profile/
+Disallow: /subscribe/
+Disallow: /admin/
+Disallow: /auth/
+Disallow: /*auth=
+Disallow: /personal/
+Disallow: /*/search/
+Disallow: /*PAGE_NAME=search
+Disallow: /*PAGE_NAME=user_post
+Disallow: /*PAGE_NAME=detail_slide_show
+Disallow: /*PAGEN_1=*
+Disallow: /*/slide_show/
+Disallow: /*/gallery/*order=*
+Disallow: /*?print=
+Disallow: /*&print=
+Disallow: /*register=*
+Disallow: /*forgot_password=*
+Disallow: /*change_password=*
+Disallow: /*login=*
+Disallow: /*logout=*
+Disallow: /*auth=*
+Disallow: /*action=ADD_TO_COMPARE_LIST
+Disallow: /*action=DELETE_FROM_COMPARE_LIST
+Disallow: /*action=ADD2BASKET
+Disallow: /*action=BUY
+Disallow: /*print_course=Y
+Disallow: /*bitrix_*=
+Disallow: /*backurl=*
+Disallow: /*BACKURL=*
+Disallow: /*back_url=*
+Disallow: /*BACK_URL=*
+Disallow: /*back_url_admin=*
+Disallow: /*index.php$
+Disallow: /*SHOWALL
+Disallow: /*show_all=
+Disallow: /cron/
+Disallow: /communication/forum/user/
+Disallow: /e-store/paid/detail.php
+Disallow: /e-store/affiliates/
+Disallow: /club/gallery/tags/
+Disallow: /examples/my-components/
+Disallow: /examples/download/download_private/
+Disallow: /club/$
+Disallow: /club/messages/
+Disallow: /club/log/
+Disallow: /content/board/my/
+Disallow: /content/links/my/
+
+
+#E-SHOP
+Disallow: /cart/*
+Disallow: /*?ELEMENT_ID=*
+Disallow: /*&section=*
+Disallow: /?setFilter=*
+
+#UTM-markers
+Disallow: /*?utm*
+Disallow: /*?openstat*
+Disallow: /*?gclid*
+Disallow: /*?from*
+Disallow: /*?PHPSESSID*
+Disallow: /*?ref*
+#UTM-markers
+ 
+Sitemap: http://vozduhovod-nsk.ru/sitemap.xml
